@@ -13,10 +13,10 @@ The core challenge is to deduce a nuanced understanding of an anonymous writer's
 
 *(Please note: For a real project, specific quotes would be provided. These are illustrative examples based on the thematic descriptions.)*
 
-1.  "The deepest wounds are often healed not by time, but by the quiet understanding found in another's empathy."
-2.  "True success isn't given; it's forged in the relentless pursuit of one's purpose, brick by painstaking brick."
-3.  "Kindness is not the absence of fear, but the brave decision to extend warmth despite it."
-4.  "The truest wealth resides not in the size of one's possessions, but in the boundless richness of one's inner world."
+1.  "The healing starts when you start undestanding the perspective of that other person and at the end you realise that the presence of that person in your life is more than enough."
+2.  "Being successful is a journey that begins with impossible and turns into unforgettable. It is never given, it is earned through rigorous hardwork. SO, that you can learn more and work hard and at the end you will be a legend and a legend is never forgotten."
+3.  "Fear is not evil; it only tell us about our weaknesses. Once overcomed, we can be more kinder and gentler and ready to face adversity."
+4.  "The poorest are the richest and the richest are the poorest."
 
 ---
 
