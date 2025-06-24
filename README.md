@@ -11,8 +11,6 @@ The core challenge is to deduce a nuanced understanding of an anonymous writer's
 
 ### Illustrative Input Quotes
 
-*(Please note: For a real project, specific quotes would be provided. These are illustrative examples based on the thematic descriptions.)*
-
 1.  "The healing starts when you start undestanding the perspective of that other person and at the end you realise that the presence of that person in your life is more than enough."
 2.  "Being successful is a journey that begins with impossible and turns into unforgettable. It is never given, it is earned through rigorous hardwork. SO, that you can learn more and work hard and at the end you will be a legend and a legend is never forgotten."
 3.  "Fear is not evil; it only tell us about our weaknesses. Once overcomed, we can be more kinder and gentler and ready to face adversity."
