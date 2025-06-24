@@ -85,6 +85,11 @@ LLMs will be utilized for brainstorming associated concepts, suggesting historic
 * **Dependency Management:** Ensuring all necessary Python libraries are correctly managed (e.g., `requirements.txt`).
 * **Deployment Readiness:** Preparing the application for potential deployment to platforms like Streamlit Cloud, including proper API key management.
 
+**References**
+
+* Build an LLM app using LangChain : https://docs.streamlit.io/develop/tutorials/chat-and-llm-apps/llm-quickstart
+* How to make ChatBot with Gen-AI and Streamlit : https://medium.com/@meena.08.ch/create-a-llm-chatbot-using-streamlit-7a5043005f39
+  
 ---
 
 ## 🛠 Technical Stuff in Plain English (Simple Summary)
